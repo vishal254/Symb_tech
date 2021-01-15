@@ -1,0 +1,31 @@
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 300px;
+  }
+
+.wf{
+    outline:1px solid black;
+}
+.ns{
+    background-color:silver;
+}
+.ns2
+{
+    background-color:grey;
+}
+.box{
+    border: 2px solid rgb(184, 226, 226);
+}
+
+.box2{
+    border: 2px solid #696969;
+    margin-left: 10px; margin-right: 10px;
+}
+.avatar {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+  }
